@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# MySQL 데이터 폴더
+master-data/
+slave-data
